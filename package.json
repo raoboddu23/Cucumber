@@ -138,7 +138,7 @@
     "rimraf": "^2.4.3",
     "serve-static": "^1.10.0",
     "sinon": "^1.17.3",
-    "tmp": "0.0.28"
+    "tmp": "0.2.4"
   },
   "scripts": {
     "feature-test": "node ./bin/cucumber.js",
